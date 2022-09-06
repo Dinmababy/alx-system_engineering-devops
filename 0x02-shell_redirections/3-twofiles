@@ -1,2 +1,2 @@
-#!/bin/
-tail -n10 /etc/
+#!/bin/bash
+cat /etc/passwd /etc/hosts
